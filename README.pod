@@ -1,0 +1,50 @@
+=encoding utf8
+
+
+This is Perl module B<Net::MyDNSjp>.
+
+=begin html
+
+<a href="https://github.com/bayashi/Net-MyDNSjp/blob/master/README.pod"><img src="https://img.shields.io/badge/Version-0.01-green?style=flat"></a> <a href="https://github.com/bayashi/Net-MyDNSjp/blob/master/LICENSE"><img src="https://img.shields.io/badge/LICENSE-Artistic%202.0-GREEN.png"></a> <a href="https://github.com/bayashi/Net-MyDNSjp/actions"><img src="https://github.com/bayashi/Net-MyDNSjp/workflows/master/badge.svg"/></a> <a href="https://coveralls.io/r/bayashi/Net-MyDNSjp"><img src="https://coveralls.io/repos/bayashi/Net-MyDNSjp/badge.png?branch=master"/></a>
+
+=end html
+
+
+=head1 INSTALLATION
+
+Net::MyDNSjp installation is straightforward. If your CPAN shell is set up,
+you should just be able to do
+
+    % cpan Net::MyDNSjp
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+
+=head1 DOCUMENTATION
+
+Net::MyDNSjp documentation is available as in POD. So you can do:
+
+    % perldoc Net::MyDNSjp
+
+
+=head1 REPOSITORY
+
+Net::MyDNSjp is hosted on github
+L<http://github.com/bayashi/Net-MyDNSjp>
+
+
+=head1 LICENSE
+
+C<Net::MyDNSjp> is free software; you can redistribute it and/or modify it under the terms of the Artistic License 2.0. (Note that, unlike the Artistic License 1.0, version 2.0 is GPL compatible by itself, hence there is no benefit to having an Artistic 2.0 / GPL disjunction.) See the file LICENSE for details.
+
+
+=head1 AUTHOR
+
+Dai Okabayashi E<lt>bayashi@cpan.orgE<gt>
