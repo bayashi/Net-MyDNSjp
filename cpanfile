@@ -4,6 +4,11 @@ requires 'perl', '5.008005';
 requires 'strict';
 requires 'warnings';
 requires 'Carp';
+requires 'HTTP::Tiny';
+requires 'Net::SSLeay';
+requires 'IO::Socket::SSL';
+requires 'MIME::Base64';
+requires 'Class::Accessor::Lite';
 
 on 'test' => sub {
     requires 'Test::More', '0.88';
