@@ -124,7 +124,7 @@ Dai Okabayashi E<lt>bayashi@cpan.orgE<gt>
 
 =head1 SEE ALSO
 
-L<Other::Module>
+L<https://github.com/disco-v8/DirectEdit>
 
 
 =head1 LICENSE
